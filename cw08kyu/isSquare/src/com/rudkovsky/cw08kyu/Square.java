@@ -3,7 +3,7 @@ package com.rudkovsky.cw08kyu;
 import java.util.Scanner;
 
 public class Square {
-    public static String isSquare(int n) {
+    public static Boolean isSquare(int n) {
         if (n == 0) return true;
 
         for (int i = 1; i * i <= n; i++) {
