@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class MyUtilities {
     public static boolean isDigit(String s) {
         //return true or false
+        System.out.println("form isDigit");
         return true;
     }
 
