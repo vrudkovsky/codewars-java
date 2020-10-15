@@ -17,8 +17,8 @@ public class Square {
 
     public static void main(String[] args) {
         //Input digits
-        boolean exit = false;
-        int fff = 12;
+        boolean exit = true;
+        int fff = 12444;
         Scanner scanner = new Scanner(System.in);
         while (exit) {
             System.out.println("Enter the digit: ");
