@@ -12,6 +12,8 @@ public class MyUtilities {
     public static void main(String[] args) {
         //Input digits
         boolean exit = true;
+        int testVar = 555;
+        
         Scanner scanner = new Scanner(System.in);
         while (exit) {
             System.out.println("Enter the digit: ");
